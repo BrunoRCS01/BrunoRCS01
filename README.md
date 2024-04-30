@@ -2,7 +2,9 @@
 
 
 - :pushpin: Atualmente estou trabalhando na PR Sistemas, onde trabalho com SQL Server, PostgreSQL.
-  <i class="devicon-postgresql-plain-wordmark colored"><link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /></i>
+  
+         <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
   
 - :blue_book: Estou estudando front-end e Inglês na Alura.
 - 👯 Sou formado em Analise e desenvolvimento de sistemas na Cruzeiro do Sul, e curso técnico de administração de banco de dados no Senai, e realizado o DP-900 na KA Solution.
