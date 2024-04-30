@@ -3,7 +3,7 @@
 
 - :pushpin: Atualmente estou trabalhando na PR Sistemas, onde trabalho com SQL Server, PostgreSQL.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" left="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" left="50"/>
           
   
 - :blue_book: Estou estudando front-end e Inglês na Alura.
