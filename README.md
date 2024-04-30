@@ -2,8 +2,7 @@
 
 
 - :pushpin: Atualmente estou trabalhando na PR Sistemas, onde trabalho com SQL Server, PostgreSQL.
-  
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
           
   
 - :blue_book: Estou estudando front-end e Inglês na Alura.
