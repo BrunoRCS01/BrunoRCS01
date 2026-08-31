@@ -1,44 +1,39 @@
-:video_game: :soccer: :orange_book: - Olá, me chamo Bruno Rodrigues ! 
+# Olá! Eu sou Bruno Rodrigues 👋
 
+Sou profissional de tecnologia com experiência em suporte técnico, bancos de dados e análise de informações, atualmente direcionando minha carreira para **Business Intelligence e Análise de Dados**.
 
-- :pushpin: Atualmente, estou empregado na PR Sistemas, onde trabalho com bancos de dados SQL Server e PostgreSQL.
+No meu trabalho, atuo diretamente com **SQL Server, PostgreSQL e MySQL**, realizando consultas, análise e correção de dados, desenvolvimento e otimização de queries, procedures e triggers, além do acompanhamento de processos utilizando ferramentas como o SQL Profiler.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="20" height="20"/>        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="20" height="20"/>
-          
-  
-- :blue_book: Além do meu trabalho na PR Sistemas, estou dedicando tempo ao meu desenvolvimento pessoal estudando front-end e inglês na plataforma Alura.
-   Recentemente, concluí o curso de Lógica de Programação na Alura, onde aprendi sobre funções, variáveis e arrays. O Projeto que desenvolvi durante o curso foi o 'Número Secreto', onde criamos formas e melhoras para gerar um número aleatório que o jogador precisava descobrir. 
-  
-- 🤔 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. Concluí o curso técnico em Administração de Banco de Dados no Senai e obtive certificação DP-900 pela KA Solution.
-  
-- 👯 Durante minha graduação em Análise e Desenvolvimento de Sistemas, adquiri experiência em várias linguagens de programação, incluindo HTML, CSS, Python, Java, JavaScript e Android Studio.
+Atualmente, estou desenvolvendo projetos de BI com foco em:
 
+* Criação de dashboards no Power BI;
+* Tratamento e transformação de dados com Power Query;
+* Modelagem de dados;
+* Desenvolvimento de indicadores e métricas com DAX;
+* Construção e análise de KPIs;
+* Transformação de dados em informações para apoiar decisões.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="20" height="20"/>
+Sou graduado em **Análise e Desenvolvimento de Sistemas**, possuo formação técnica em **Administração de Banco de Dados** pelo SENAI e certificação **Microsoft Azure Data Fundamentals — DP-900**.
 
-- :date: Recentemente, concluí o curso DP-900 da KA Solution, onde adquiri conhecimentos sobre conceitos básicos de dados do Microsoft Azure. Além disso, finalizei o dashboard <b>A partir do zero: iniciante em programação</b> na Alura, por meio dos seguintes cursos: <b>Lógica de programação: mergulhe em programação com JavaScript</b>, <b>Lógica de programação: explore funções e listas</b>, <b>Git e GitHub: compartilhando e colaborando em projetos</b>, <b>Lógica de programação: praticando com desafios</b>.
+## Tecnologias e ferramentas
 
+* Power BI
+* SQL Server
+* PostgreSQL
+* MySQL
+* Power Query
+* DAX
+* Modelagem de dados
+* ETL
+* Git e GitHub
+* Jira e GLPI
 
-  
-- 💬 Contatos ...
- <div>
-<a href="https://www.instagram.com/_brunorcs21/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:bruno_rcs01@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bruno-rodrigues-cabral-da-silva-225312149/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## Objetivo profissional
 
+Consolidar minha atuação na área de **Business Intelligence e Análise de Dados**, unindo minha experiência com bancos de dados, suporte técnico e processos de negócio para desenvolver soluções que gerem informações claras, confiáveis e úteis para a tomada de decisão.
 
+## Contato
 
-
-
-- ⚡ São Paulo, Brasil
-
-
-
-<div>
-<a href="https://github.com/BrunoRCS01">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRCS01&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoRCS01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
+[![LinkedIn](https://shields.io)]LinkedIn: https://www.linkedin.com/in/bruno-rodrigues-cabral-da-silva-225312149/
+✉️ E-mail: bruno_rcs01@hotmail.com
+✅ Localização: São Paulo, Brasil
