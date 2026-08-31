@@ -1,4 +1,4 @@
-# Olá! Eu sou Bruno Rodrigues 👋
+# 😁 Olá! Eu sou Bruno Rodrigues 👋
 
 Sou profissional de tecnologia com experiência em suporte técnico, bancos de dados e análise de informações, atualmente direcionando minha carreira para **Business Intelligence e Análise de Dados**.
 
@@ -15,7 +15,7 @@ Atualmente, estou desenvolvendo projetos de BI com foco em:
 
 Sou graduado em **Análise e Desenvolvimento de Sistemas**, possuo formação técnica em **Administração de Banco de Dados** pelo SENAI e certificação **Microsoft Azure Data Fundamentals — DP-900**.
 
-## Tecnologias e ferramentas
+## 👨‍💻 Tecnologias e ferramentas
 
 * Power BI
 * SQL Server
@@ -28,14 +28,12 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas**, possuo formação t�
 * Git e GitHub
 * Jira e GLPI
 
-## Objetivo profissional
+## 🤯 Objetivo profissional
 
 Consolidar minha atuação na área de **Business Intelligence e Análise de Dados**, unindo minha experiência com bancos de dados, suporte técnico e processos de negócio para desenvolver soluções que gerem informações claras, confiáveis e úteis para a tomada de decisão.
 
-## Contato
+## 📞 Contato
 
-[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/bruno-rodrigues-cabral-da-silva-225312149/))
-
- 
+✨ Linkedin: https://www.linkedin.com/in/bruno-rodrigues-cabral-da-silva-225312149/ 
 ✉️ E-mail: bruno_rcs01@hotmail.com
-✅ Localização: São Paulo, Brasil
+🗺️ Localização: São Paulo, Brasil
