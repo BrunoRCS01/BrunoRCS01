@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-github.png" alt="Business Intelligence e Análise de Dados" width="100%">
+</p>
+
 # 😁 Olá! Eu sou Bruno Rodrigues 👋
 
 Sou profissional de tecnologia com experiência em suporte técnico, bancos de dados e análise de informações, atualmente direcionando minha carreira para **Business Intelligence e Análise de Dados**.
