@@ -34,6 +34,8 @@ Consolidar minha atuação na área de **Business Intelligence e Análise de Dad
 
 ## 📞 Contato
 
-✨ Linkedin: https://www.linkedin.com/in/bruno-rodrigues-cabral-da-silva-225312149/ 
+✨ Linkedin: https://www.linkedin.com/in/bruno-rodrigues-cabral-da-silva-225312149/  
+
 ✉️ E-mail: bruno_rcs01@hotmail.com
+
 🗺️ Localização: São Paulo, Brasil
